@@ -1,0 +1,8 @@
+astronaut_id,timestamp,loneliness,mood,stress,confinement_discomfort,mental_exhaustion,physical_activity,exercise_intensity,fatigue_level
+AST_01,2026-11-01 20:00:00,9,9,9,8,7,Light Mobility & Microgravity Stretching,Low,Low
+AST_01,2026-11-02 20:00:00,7,8,9,9,8,Habitat & Equipment Maintenance,Moderate,Low
+AST_01,2026-11-03 20:00:00,9,7,9,8,9,EVA Suit Prep & Airlock Check,High,Moderate
+AST_01,2026-11-04 20:00:00,8,7,9,9,7,Cycle Ergometer (CEVIS Cardio),Moderate,Low
+AST_01,2026-11-05 20:00:00,7,9,7,8,9,Cycle Ergometer (CEVIS Cardio),Moderate,Low
+AST_01,2026-11-06 20:00:00,3,4,3,3,4,Light Mobility & Microgravity Stretching,Low,High
+AST_01,2026-11-07 20:00:00,7,7,8,7,8,Habitat & Equipment Maintenance,Moderate,Low

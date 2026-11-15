@@ -1,0 +1,22 @@
+astronaut_id,timestamp,meal_slot,food_choice
+AST_01,2026-11-01 07:30:00,Breakfast,Scrambled Eggs & Tortilla (Breakfast Pouch)
+AST_01,2026-11-01 12:30:00,Lunch,Beef Stroganoff & Noodles (Retort Pouch)
+AST_01,2026-11-01 18:30:00,Dinner,Macaroni & Cheese (Freeze-Dried)
+AST_01,2026-11-02 07:30:00,Breakfast,Oatmeal with Freeze-Dried Berries
+AST_01,2026-11-02 12:30:00,Lunch,Grilled Chicken & Quinoa
+AST_01,2026-11-02 18:30:00,Dinner,Grilled Chicken & Quinoa
+AST_01,2026-11-03 07:30:00,Breakfast,Oatmeal with Freeze-Dried Berries
+AST_01,2026-11-03 12:30:00,Lunch,Grilled Chicken & Quinoa
+AST_01,2026-11-03 18:30:00,Dinner,Macaroni & Cheese (Freeze-Dried)
+AST_01,2026-11-04 07:30:00,Breakfast,Scrambled Eggs & Tortilla (Breakfast Pouch)
+AST_01,2026-11-04 12:30:00,Lunch,Grilled Chicken & Quinoa
+AST_01,2026-11-04 18:30:00,Dinner,Macaroni & Cheese (Freeze-Dried)
+AST_01,2026-11-05 07:30:00,Breakfast,Oatmeal with Freeze-Dried Berries
+AST_01,2026-11-05 12:30:00,Lunch,Grilled Chicken & Quinoa
+AST_01,2026-11-05 18:30:00,Dinner,Macaroni & Cheese (Freeze-Dried)
+AST_01,2026-11-06 07:30:00,Breakfast,Scrambled Eggs & Tortilla (Breakfast Pouch)
+AST_01,2026-11-06 12:30:00,Lunch,Beef Stroganoff & Noodles (Retort Pouch)
+AST_01,2026-11-06 18:30:00,Dinner,Macaroni & Cheese (Freeze-Dried)
+AST_01,2026-11-07 07:30:00,Breakfast,Scrambled Eggs & Tortilla (Breakfast Pouch)
+AST_01,2026-11-07 12:30:00,Lunch,Grilled Chicken & Quinoa
+AST_01,2026-11-07 18:30:00,Dinner,Grilled Chicken & Quinoa

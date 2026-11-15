@@ -1,0 +1,4 @@
+astronaut_id,name,age,medical_conditions,allergies,restrictions
+AST_01,Luke Ortega,38,None,None,None
+AST_02,Darrow Pierce,35,Mild Orthostatic Intolerance,Penicillin,Monitor fluid & sodium intake prior to gravity transitions
+AST_03,Paul Cruz,29,Prior L4-L5 Lower Back Strain,"Latex, Dust Mites",Modify heavy axial deadlift loads on ARED / Zero-T2
